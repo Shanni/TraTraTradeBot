@@ -1,0 +1,17 @@
+{
+  "name": "auto-trade",
+  "version": "1.0.0",
+  "description": "Private App to help trade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robinhood"
+  ],
+  "author": "Shan",
+  "license": "ISC",
+  "dependencies": {
+    "robinhood": "^1.1.1"
+  }
+}
